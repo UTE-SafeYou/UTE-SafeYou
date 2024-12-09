@@ -48,7 +48,7 @@ Giá trị cốt lõi của Safe You Team:
       <a href="#xây-dựng-với">Nền tảng phát triển</a>
     </li>
     <li>
-      <a href="#getting-started">Chức năng chính</a>
+      <a href="#chức-năng-chính">Chức năng chính</a>
     </li>
     <li><a href="#hướng-dẫn-cài-đặt">Hướng dẫn cài đặt</a></li>
     <li><a href="#tài-liệu-kỹ-thuật">Tài liệu kỹ thuật</a></li>
@@ -130,6 +130,10 @@ Tùy chọn gửi của Admin gồm có:
   2.4. Báo cáo hoạt động
 
   2.5. Đăng bài viết hỗ trợ người dùng
+
+Phân tích nghiệp vụ bài toán qua Use-case diagram của nhóm
+
+![alt text](./assets/use_case_diagram.png)
 
 ### Hướng dẫn cài đặt
 
