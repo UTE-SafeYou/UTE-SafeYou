@@ -24,7 +24,7 @@
 
 ## Về Safe You Project 👋
 
-![alt text](image.png)
+![alt text](./assets/preview.png)
 
 Safe You Project là một nền tảng ứng dụng công nghệ thông tin nhằm giải quyết các vấn đề trong việc ứng phó với các tình huống khẩn cấp, đặc biệt là trong các trường hợp thiên tai và đại dịch. Trong bối cảnh tình hình khẩn cấp, việc quản lý, giao tiếp và điều hành giữa các cấp phải thực hiện qua nhiều bước thủ công, gây ra sự chậm trễ và khó khăn trong việc phối hợp. Điều này dẫn đến sự thiếu hiệu quả trong việc phản ứng nhanh chóng và kịp thời.
 
